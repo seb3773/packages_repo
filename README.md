@@ -1,1 +1,1 @@
-packages repository for q4osXpack
+packages repository for q4osXpack & other projects
